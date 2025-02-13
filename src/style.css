@@ -3,3 +3,9 @@
 body{
     background: blue;
 }
+#excuse {
+    text-align: center;
+  }
+.container-fluid {
+    text-align: center;
+  }
